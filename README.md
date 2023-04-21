@@ -4,6 +4,6 @@ This is a space where I have troubleshooted through a lot of eisting problems in
 
 
 ## Navigation
-- [Boxplots](https://github.com/catrionelee/R_Workbook/Boxplots.md)
+- [Boxplots](https://github.com/catrionelee/R_Workbook/blob/main/Boxplots.md)
 - Microbiome taxa visulizations
 - Resistome visulaizations and statistics
