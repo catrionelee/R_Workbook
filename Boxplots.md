@@ -20,4 +20,4 @@ First thing that needs to occur is preparing your data. For these statistics and
 | B | 1 | 1| B | 20 |
 | C | 2 | 1| A | 9 |
 
-This is best conceptualized as `Var1` would be  your X, and Var2-4 will be associated metadata. Y needs to be a numberic value. X can be a character or numeric.
+This is best conceptualized as `Var1` would be  your `X`, and `Var2`-`4` will be associated metadata. `Y` needs to be a numberic value. `X` can be a character or numeric.
