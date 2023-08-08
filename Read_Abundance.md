@@ -1,6 +1,6 @@
 # Metagenomics Read Abundance Workflow
 
-Follow along with the accompanying [R Script]().
+Follow along with the accompanying [R Script](https://github.com/catrionelee/R_Workbook/blob/main/metagenomics_analysis_script_CL.R).
 
 ## Step 1: Consolidate Kraken Reports
 
