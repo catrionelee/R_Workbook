@@ -5,7 +5,13 @@ Follow along with the accompanying [R Script](https://github.com/catrionelee/R_W
 ## Step 1: Consolidate Kraken Reports
 
 You start with your trimmed and quality controlled reads. These need to be classified, I’ve used Kraken2 for short reads. (I believe that it should still work for long reads though, but double check). You will get a separate `.tab` report for each of your samples.
-Create a file/digital sticky note with all of the file’s names: ls > list_samples.tab. You will need to run the python script kraken2_long_to_wide.py from your computer’s terminal in the same directory as you’ve kept your separate kraken reports: 
+Create a file/digital sticky note with all of the file’s names: 
+
+```
+ls > list_samples.tab.
+```
+
+You will need to run the python script `kraken2_long_to_wide.py` from your computer’s terminal in the same directory as you’ve kept your separate kraken reports. Copy and paste the contents of `list_samples.tab` into the following block of code.
 
 ```
 python kraken2_long_to_wide.py -i [list of your file names, separated by tab/space] -o kraken_analytic_matrix.csv
