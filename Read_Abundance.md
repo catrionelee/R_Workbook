@@ -14,16 +14,22 @@ This will generate 2 files, `kraken_unclassifieds.csv` and `kraken_analytic_matr
 ## Step 2: Reformat Matrix
 
 Then, you will get an output matrix. Should look something like:
-!(/Pictures/text_to_column.png)
- 
-You are going to have to open the kraken_analytic_matrix.csv file in excel and move the headers to align with their read counts, leaving A1 cell blank.
+![Kraken analyitic matrix opend in Excel](https://github.com/catrionelee/R_Workbook/blob/main/Pictures/kraken_analytic_matrix.png) 
+You are going to have to open the `kraken_analytic_matrix.csv file` in excel and move the headers to align with their read counts, leaving A1 cell blank.
 
 Then, insert 7 columns to the left of the A column. You will then select the entire A column and separate the column by a deliminater.
- 
-   
- 
+
+![Excel header directions to Text to Columns](https://github.com/catrionelee/R_Workbook/blob/main/Pictures/text_to_column.png)
+
+![Excel Convert Text to Columns Wizard Step 1 of 3](https://github.com/catrionelee/R_Workbook/blob/main/Pictures/deliminated.png)
+
+![Excel Convert Text to Columns Wizard Step 2 of 3](https://github.com/catrionelee/R_Workbook/blob/main/Pictures/delim_character.png)
+
+![Excel Convert Text to Columns Wizard Step 3 of 3](https://github.com/catrionelee/R_Workbook/blob/main/Pictures/last_window.png)
+
 Once you hit finish you’ll get:
- 
+
+![Formatted kraken matrix in excel](https://github.com/catrionelee/R_Workbook/blob/main/Pictures/expanded_matrix.png) 
 
 Add the headers Domain, Kingdom, Phylum, Class, Order, Family, Genus, Species in the empty headers in row 1.
 
