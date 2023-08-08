@@ -13,7 +13,7 @@ This is a guide to how to create some boxplots based on a dataframe.
 
 ## Preparing Your Data
 
-First thing that needs to occur is preparing your data. For these statistics and the boxplotting to work, you need to format your dataframe into "long" format. Is thould look something like this:
+First thing that needs to occur is preparing your data. For these statistics and the boxplotting to work, you need to format your dataframe into "long" format. It should look something like this:
 
 | Var1 | Var2 | Var3 | Var4 | Y |
 | :----: | :----: | :----: | :----: | :----: |
