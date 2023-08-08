@@ -1,6 +1,6 @@
 # R_Workbook
 
-This is a space where I have troubleshooted through a lot of eisting problems in R and am uploading reproducible examples or tutorials on things I have done. Feel free to peruse through this repository.
+This is a space where I have troubleshooted through a lot of existing problems in R and am uploading reproducible examples or tutorials on things I have done. Feel free to peruse through this repository.
 
 ## Navigation
 - [Boxplots](https://github.com/catrionelee/R_Workbook/blob/main/Boxplots.md)
