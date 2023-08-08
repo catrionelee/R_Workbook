@@ -1,5 +1,7 @@
 # Metagenomics Read Abundance Workflow
 
+Follow along with the accompanying [R Script]().
+
 ## Step 1: Consolidate Kraken Reports
 
 You start with your trimmed and quality controlled reads. These need to be classified, I’ve used Kraken2 for short reads. (I believe that it should still work for long reads though, but double check). You will get a separate `.tab` report for each of your samples.
