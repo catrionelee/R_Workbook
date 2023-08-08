@@ -5,5 +5,5 @@ This is a space where I have troubleshooted through a lot of eisting problems in
 
 ## Navigation
 - [Boxplots](https://github.com/catrionelee/R_Workbook/blob/main/Boxplots.md)
-- [Microbiome taxa visulizations](https://github.com/catrionelee/R_Workbook/blob/main/read_abundance.md)
+- [Microbiome taxa visulizations](https://github.com/catrionelee/R_Workbook/blob/main/Read_Abundance.md)
 - Resistome visulaizations and statistics
