@@ -8,6 +8,7 @@ This is a guide to how to create some boxplots based on a dataframe.
 3. Boxplot with 2 comparisions
 4. Boxplot with 3 comparisions
 5. Boxplot with 4 comparisions
+6. [Errors (that I know the answer to)](https://github.com/catrionelee/R_Workbook/blob/main/Boxplots.md#errors)
 
 
 ## Preparing Your Data
@@ -22,5 +23,5 @@ First thing that needs to occur is preparing your data. For these statistics and
 
 This is best conceptualized as `Var1` would be  your `X`, and `Var2`-`4` will be associated metadata. `Y` needs to be a numberic value. `X` can be a character or numeric.
 
-## Errors (that I know the solution to)
+## Errors
 ![image](https://github.com/catrionelee/R_Workbook/assets/64044537/baa6d5dc-b1f0-427f-9fe7-8cc83b4dfcf8)
