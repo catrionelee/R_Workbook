@@ -14,6 +14,7 @@ This will generate 2 files, `kraken_unclassifieds.csv` and `kraken_analytic_matr
 ## Step 2: Reformat Matrix
 
 Then, you will get an output matrix. Should look something like:
+!(/Pictures/text_to_column.png)
  
 You are going to have to open the kraken_analytic_matrix.csv file in excel and move the headers to align with their read counts, leaving A1 cell blank.
 
